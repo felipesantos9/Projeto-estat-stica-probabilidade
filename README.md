@@ -14,19 +14,14 @@
 
 # Projeto: análise estatística de dados de Máquinas virtuais ociosas
 
-## 📋 Sobre
-
-
-## 📂 Estrutura do projeto
-
-
-
-## 🚀 Rodando o projeto
-
-
 ## 🛠️ Tecnologias utilizadas
 
 - Python 3
 - Matplotlib
+- Seaborn
+- Pandas
+- Scipy
+- Numpy
 
 ## ✒️ Autores
+André Campos, Daniel Dias, Felipe Santos, Lucas Lucena e Matheus Pessoa
