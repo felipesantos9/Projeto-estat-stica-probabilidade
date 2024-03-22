@@ -17,6 +17,9 @@
 ## 📋 Sobre
 A DataOpti, empresa voltadad para consultoria de dados para empresas, recebeu um projeto do Google, que tinha o objetivo de reduzir os custos de suas máquinas virtuais de um cluster específico. O cluster em questão possui 22 máquinas virtuais. Quando uma máquina virtual está sendo utilizada, ele tem um gasto mensal de $10.000, já quando está ociosa possui um gasto de $6.000. O google estava tendo um gasto de mais de $180.000 mensais para manter o custo, e com a ajuda da nossa empresa, que recebeu os dados das máquinas virtuais ociosas conseguimos realizar uma diminuição nos custos mensais
 
+## 🎥 Apresentação do projeto
+Link: [DataOPTI - Projeto Estatística - SI 2023.2](https://www.youtube.com/watch?v=lwfoWnGgaEo)
+
 ## 📂 Estrutura do projeto
 
 ```
